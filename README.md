@@ -1,12 +1,12 @@
-# YunShow Studio（云演工坊）
+# ShotSprig Studio（镜芽工坊）
 
 > 中文优先的 AI 辅助商业演示视频工作台：输入文稿，一键生成可录屏的视频演示。
 
-## 项目简介（What is YunShow Studio）
-YunShow Studio（云演工坊）是一个面向中国企业场景的 Web 应用。它把公众号文章、产品资料、路演文稿、培训 SOP、融资 BP 等内容，快速转换为可编辑的演示视频项目（分镜 + 旁白 + 页面视觉建议）。
+## 项目简介（What is ShotSprig Studio）
+ShotSprig Studio（镜芽工坊）是一个面向中国企业场景的 Web 应用。它把公众号文章、产品资料、路演文稿、培训 SOP、融资 BP 等内容，快速转换为可编辑的演示视频项目（分镜 + 旁白 + 页面视觉建议）。
 
 ## 为什么做这个项目（Why it exists）
-企业团队常见痛点是“有内容，缺视频表达”。云演工坊通过结构化生成与可视化预览，降低从文稿到视频演示的制作门槛。
+企业团队常见痛点是“有内容，缺视频表达”。镜芽工坊通过结构化生成与可视化预览，降低从文稿到视频演示的制作门槛。
 
 ## 目标用户（Target users）
 - 市场与品牌团队
@@ -74,4 +74,4 @@ MIT
 ---
 
 ## English (Brief)
-YunShow Studio is a Chinese-first AI-assisted business presentation video studio. It transforms documents into editable web-based presentation-video projects with scene plans, narration, visual directions, and exportable assets. MVP works without any API key.
+ShotSprig Studio is a Chinese-first AI-assisted business presentation video studio. It transforms documents into editable web-based presentation-video projects with scene plans, narration, visual directions, and exportable assets. MVP works without any API key.

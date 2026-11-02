@@ -25,7 +25,7 @@ export function deterministicGenerate(input: GeneratorInput): PresentationProjec
   });
 
   return {
-    projectTitle: input.projectTitle || "云演工坊智能演示项目",
+    projectTitle: input.projectTitle || "镜芽工坊智能演示项目",
     subtitle: `输入文稿，一键生成可录屏的视频演示｜${input.platform}`,
     audience: input.platform.includes("投资") ? "投资人与管理层" : "企业客户与业务团队",
     platform: input.platform,
